@@ -1,0 +1,22 @@
+{
+  "name": "study-js-reflect-metadata",
+  "version": "1.0.0",
+  "description": "reflec metadata package study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --config nodemon.json src/index.ts"
+  },
+  "keywords": [
+    "reflect-metadata",
+    "study"
+  ],
+  "author": "max",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^15.3.0",
+    "reflect-metadata": "^0.1.13",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  }
+}
